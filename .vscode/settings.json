@@ -1,0 +1,7 @@
+{
+    "java.format.enabled": true,
+    "java.saveActions.organizeImports": true,
+    "java.format.onType.enabled": true,
+    "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml",
+    "java.format.settings.profile": "GoogleStyle",
+}
